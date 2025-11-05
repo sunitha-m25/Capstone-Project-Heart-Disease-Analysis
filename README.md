@@ -77,40 +77,6 @@ The motivation behind this Analysis is to contribute to early detection, risk pr
 
 * Heart Disease Analysis Power BI Dashboard Link : <a href ="https://app.powerbi.com/view?r=eyJrIjoiYzJjODBkMzctNDkwYi00NjdhLWIzMDAtMzk4OWI3ODc5YTZlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" >Heart_Disease_Analysis</a>
 
-Last chart(Key Influencers) in Power BI will not show up in the published version as it is AI Visual and is not supported by Publishing.
-
-* These charts explores the key influencers behind heart disease mortality rates. Our main goal is to understand where mortality is highest and what factors contribute most of it - to guide effective interventions and policy actions.
-
-## Factors that increase mortality rate
-
- ![Factors that increase mortality rate](./Images/Key_Influencer_Mortality_Rate_Increase.png)
-
-
-## Factors that decrease mortality rate
-
- ![Factors that decrease mortality rate](./Images/Key_Influencer_Mortality_Rate_Decrease.png)
-
-
-## Segmentation: where mortality is high
-
- ![Segmentation: where mortality is high](./Images/Key_Influencer_Mortality_Rate_High.png)
-
-
-## Segment details when mortality is high
-
- ![Segment details when mortality is high](./Images/Mortality_High_Details.png)
-
-
-## Segmentation: where mortality is low
-
- ![Segmentation: where mortality is low](./Images/Key_Influencer_Mortality_Rate_Low.png)
-
-
-## Segment details when mortality is low
-
- ![Segment details when mortality is low](./Images/Mortality_Low_Details.png)
-
-
 
 
 
